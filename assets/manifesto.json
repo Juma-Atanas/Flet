@@ -1,0 +1,35 @@
+{
+    "name": "Agriprenure",
+    "short_name": "Agriprenuret",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0175C2",
+    "description": "Agriprenure app for agriculturers",
+    "orientation": "natural",
+    "prefer_related_applications": false,
+    "icons": [
+      {
+        "src": "favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "favicon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "favicon.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+      },
+      {
+        "src": "favicon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "maskable"
+      }
+    ]
+  }
